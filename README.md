@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning data structures and algorithms and also web development
 
 - 💞️ I’m looking to collaborate on web and java
-- 📫 How to reach me email id: sameerspatil18@gmail.com
+- 📫 How to reach me email id: sameerspatil18@outlook.com
+-
 
 <!---
 Sameer-s-patil18/Sameer-s-patil18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
